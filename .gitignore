@@ -1,0 +1,10 @@
+*.class
+bin
+obj
+*.dll
+*.exe
+*.pdb
+*.suo
+*.user
+*.vspscc
+*.vssscc
